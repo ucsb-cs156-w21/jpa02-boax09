@@ -1,30 +1,13 @@
-# STARTER-jpa02
-
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa02` above
-  to match the name of your repo, i. e., `lab02-yourgithubid`, then delete
-  this TODO item.
-
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f20/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f20/STARTER-jpa02
-
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://cs156-f20-jpa02-cgaucho.herokuapp.com
+# anhvu-nguyen-jpa02
 
 
-On Heroku: https://cs156-f20-jpa02-cgaucho.herokuapp.com
+Repo: https://github.com/ucsb-cs156-w21/jpa02-boax09
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-f20/jpa02-cgaucho
+On Heroku: https://jpa02-anhvu-nguyen.herokuapp.com/
+
+
+On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-boax09
 
 
 # About this repo
